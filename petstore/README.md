@@ -1661,7 +1661,7 @@
 
   * 纵然shoppingCart文件中放入 state、mutation、getters等，但是 store的下层结构是 state、mutation、getters，而 shoppingCart是在 state下层
 
-    ![](petstore.assets/store-structure.png)
+    !(https://github.com/MatchaEggTart/petstore_ant_vue/blob/main/document/assets/store-structure.png?raw=true)
 
     
 
